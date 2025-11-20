@@ -1,4 +1,4 @@
-# E-volution
+# E-volution (non finalisé)
 
 ## 🎯 Projet Hack4IFRI 2025
 
